@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sonila/Desktop/RPC/RPC.csproj": {}
+  },
+  "projects": {
+    "/home/sonila/Desktop/RPC/RPC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sonila/Desktop/RPC/RPC.csproj",
+        "projectName": "RPC",
+        "projectPath": "/home/sonila/Desktop/RPC/RPC.csproj",
+        "packagesPath": "/home/sonila/.nuget/packages/",
+        "outputPath": "/home/sonila/Desktop/RPC/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/sonila/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

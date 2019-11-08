@@ -1,0 +1,11 @@
+/home/sonila/Desktop/RPC/bin/Debug/netcoreapp2.1/RPC.deps.json
+/home/sonila/Desktop/RPC/bin/Debug/netcoreapp2.1/RPC.runtimeconfig.json
+/home/sonila/Desktop/RPC/bin/Debug/netcoreapp2.1/RPC.runtimeconfig.dev.json
+/home/sonila/Desktop/RPC/bin/Debug/netcoreapp2.1/RPC.dll
+/home/sonila/Desktop/RPC/bin/Debug/netcoreapp2.1/RPC.pdb
+/home/sonila/Desktop/RPC/obj/Debug/netcoreapp2.1/RPC.csprojAssemblyReference.cache
+/home/sonila/Desktop/RPC/obj/Debug/netcoreapp2.1/RPC.csproj.CoreCompileInputs.cache
+/home/sonila/Desktop/RPC/obj/Debug/netcoreapp2.1/RPC.AssemblyInfoInputs.cache
+/home/sonila/Desktop/RPC/obj/Debug/netcoreapp2.1/RPC.AssemblyInfo.cs
+/home/sonila/Desktop/RPC/obj/Debug/netcoreapp2.1/RPC.dll
+/home/sonila/Desktop/RPC/obj/Debug/netcoreapp2.1/RPC.pdb
